@@ -2,14 +2,13 @@
   "name": "24k-dark-theme",
   "displayName": "24k Dark",
   "description": "Cyberpunk inspired dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ayush24k",
   "icon": "ayush24k-profile.jpg",
   "repository": {
-        "type": "git",
-        "url": "https://github.com/ayush24k/24k-dark-theme"
+    "type": "git",
+    "url": "https://github.com/ayush24k/24k-dark-theme"
   },
-
   "keywords": [
     "theme",
     "dark theme",
@@ -24,11 +23,9 @@
     "cyberpunk theme",
     "future theme"
   ],
-
   "engines": {
     "vscode": "^1.85.0"
   },
-
   "categories": [
     "Themes"
   ],
