@@ -10,4 +10,4 @@ Will be maintaining this theme time to time, thanks! 🙏🏽
 
 ## Screenshot
 
-![screenshot](https://github.com/ayush24k/24k-dark-theme/blob/main/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/ayush24k/24k-dark-theme/main/screenshot.jpg)
