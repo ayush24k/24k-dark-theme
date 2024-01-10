@@ -3,9 +3,32 @@
   "displayName": "24k Dark",
   "description": "Ayush 24k theme! ",
   "version": "0.0.1",
+  "publisher": "ayush24k",
+  "icon": "profile-150px.jpg",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/ayush24k/24k-dark-theme"
+  },
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ayush anshu theme",
+    "ayushanshu",
+    "ayush24k theme",
+    "24kdark",
+    "24k dark theme",
+    "24kdark theme",
+    "ayush24k",
+    "purple theme",
+    "cyberpunk theme",
+    "future theme"
+  ],
+
   "engines": {
     "vscode": "^1.85.0"
   },
+
   "categories": [
     "Themes"
   ],
