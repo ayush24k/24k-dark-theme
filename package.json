@@ -1,0 +1,21 @@
+{
+  "name": "24k-dark-theme",
+  "displayName": "24k Dark",
+  "description": "Ayush 24k theme! ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "24k Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24k Dark-color-theme.json"
+      }
+    ]
+  }
+}
